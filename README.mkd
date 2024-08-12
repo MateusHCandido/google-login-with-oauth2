@@ -1,0 +1,11 @@
+# Acessando uma aplicação com o login do google com OAuth2
+
+A aplicação tem o objetivo de efetuar o login através do google utilizando OAuth 2.0
+
+## Tecnologias utilizadas
+
+- Java 17
+- Maven (2.6.1)
+- Intellij
+- Conta google
+
