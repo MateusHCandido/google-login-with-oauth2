@@ -1,6 +1,7 @@
 # Acessando uma aplicação com o login do google com OAuth2
 
-A aplicação tem o objetivo de efetuar o login através do google utilizando OAuth 2.0
+A aplicação tem o objetivo de efetuar o login através do google utilizando OAuth 2.0. 
+ Em seu objetivo final, será lançado uma frase randômica e o usuário poderá efetuar o logout da aplicação, com um botão abaixo da frase.
 
 ## Tecnologias utilizadas
 
