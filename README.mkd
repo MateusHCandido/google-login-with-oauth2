@@ -8,5 +8,5 @@ A aplicação tem o objetivo de efetuar o login através do google utilizando OA
 - Java 17
 - Maven (2.6.1)
 - Intellij
-- Conta google
+- Google Cloud
 
